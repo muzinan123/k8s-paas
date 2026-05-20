@@ -143,3 +143,8 @@ k8s-paas-main/
 ├── k8s_use/          # Reference YAML manifests (volumes, scheduling, probes)
 └── docs/             # API request examples (JSON)
 ```
+
+## 📝 Related Articles
+
+📚 [Kubernetes Internals Series on dev.to](https://dev.to/jamesli/series/39827)
+
